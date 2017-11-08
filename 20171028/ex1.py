@@ -11,6 +11,10 @@ for movie in pq(content).find('.info'):
     print (title)
     print ('  '+score+comment)
 
+
+
+
+
 '''
 肖申克的救赎
   9.6希望让人自由。
